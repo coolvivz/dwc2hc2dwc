@@ -1,0 +1,12 @@
+{ 
+    "role": { 
+      "name": "DWC_CONSUMPTION_ROLE#", 
+      "object_privileges": [ 
+        { 
+          "name":"CalcViews::cv_test", 
+          "type":"VIEW", 
+          "privileges_with_grant_option":[ "SELECT" ] 
+        }
+      ]
+    }
+  }

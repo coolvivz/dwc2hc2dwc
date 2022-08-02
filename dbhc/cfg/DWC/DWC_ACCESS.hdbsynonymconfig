@@ -1,0 +1,8 @@
+{
+	"COVID_STATS" : {
+    	"target": {
+    		"schema.configure": "dwcups/schema",
+    		"object": "COVID_STATS"
+    	}
+	}
+}
